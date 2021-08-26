@@ -1689,7 +1689,7 @@
     },
     {
       "businessService": "Rents.Penalty",
-      "code": "RT.Penalty",
+      "code": "RT.PENALTY",
       "collectionModesNotAllowed": [
         ""
       ],
