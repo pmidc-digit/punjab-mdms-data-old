@@ -1686,6 +1686,18 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Finance"
+    },
+    {
+      "businessService": "Rents.Penalty",
+      "code": "RT.Penalty",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
     }
   ]
 }
