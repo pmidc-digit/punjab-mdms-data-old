@@ -2475,6 +2475,27 @@
           "code": "pb.testing"
         }
       ]
+    },
+    {
+      "module": "FSM",
+      "code": "FSM",
+      "tenants": [
+        {
+          "code": "pb.citya"
+        },
+        {
+          "code": "pb.cityb"
+        },
+        {
+          "code": "pb.cityc"
+        },
+        {
+          "code": "pb.cityd"
+        },
+        {
+          "code": "pb.citye"
+        }
+      ]
     }
   ]
 }

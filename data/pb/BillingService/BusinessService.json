@@ -1686,6 +1686,17 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Finance"
+    },
+    {
+      "businessService": "FSM.TRIP_CHARGES",
+      "code": "FSM.TRIP_CHARGES",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
   ]
 }
