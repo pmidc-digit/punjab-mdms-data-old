@@ -1693,7 +1693,8 @@
       "collectionModesNotAllowed": [
         "DD"
       ],
-      "partPaymentAllowed": false,
+      "partPaymentAllowed": true,
+	    "minAmountPayable": 200,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true
