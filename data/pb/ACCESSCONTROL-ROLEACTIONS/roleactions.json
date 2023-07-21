@@ -14199,6 +14199,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 2070,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "FSM_EDITOR_EMP",
       "actionid": 2071,
       "actioncode": "",
@@ -14345,6 +14351,30 @@
     {
       "rolecode": "FSM_EMP_FSTPO",
       "actionid": 2415,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2503,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2503,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "FSM_EDITOR_EMP",
+      "actionid": 2503,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	  {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2504,
       "actioncode": "",
       "tenantId": "pb"
     }
