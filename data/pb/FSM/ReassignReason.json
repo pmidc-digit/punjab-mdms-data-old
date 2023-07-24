@@ -1,16 +1,16 @@
 {
-    "tenantId": "pb",
-    "moduleName": "FSM",
-    "ReassignReason": [
-        {
-            "name": "Vehicle is under repair",
-            "code": "VEHICLE_REPAIR",
-            "active": true
-        },
-        {
-            "name": "Inaccessible road",
-            "code": "ROAD_INACCESS",
-            "active": true
-        }
-    ]
+  "tenantId": "pb",
+  "moduleName": "FSM",
+  "ReassignReason": [
+    {
+      "name": "Vehicle is under repair",
+      "code": "VEHICLE_REPAIR",
+      "active": true
+    },
+    {
+      "name": "Inaccessible road",
+      "code": "ROAD_INACCESS",
+      "active": true
+    }
+  ]
 }
