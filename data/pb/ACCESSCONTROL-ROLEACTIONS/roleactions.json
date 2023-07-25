@@ -14307,6 +14307,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2062,
+      "actioncode": "",
+      "tenantId": "pb"
+    },	
+    {
       "rolecode": "FSM_EDITOR_EMP",
       "actionid": 2062,
       "actioncode": "",
@@ -14379,6 +14385,18 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2064,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2065,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "FSM_ADMIN",
       "actionid": 2065,
       "actioncode": "",
@@ -14410,6 +14428,12 @@
     },
     {
       "rolecode": "FSM_EMP_FSTPO",
+      "actionid": 2066,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
       "actionid": 2066,
       "actioncode": "",
       "tenantId": "pb"
@@ -14517,6 +14541,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "SUPERUSER",
+      "actionid": 2068,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "FSM_CREATOR_EMP",
       "actionid": 2069,
       "actioncode": "",
@@ -14541,6 +14571,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "SUPERUSER",
+      "actionid": 2069,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "FSM_CREATOR_EMP",
       "actionid": 2070,
       "actioncode": "",
@@ -14555,6 +14591,18 @@
     {
       "rolecode": "FSM_DSO",
       "actionid": 2070,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 2069,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2069,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -14866,6 +14914,12 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 2070,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
       "actionid": 2070,
       "actioncode": "",
       "tenantId": "pb"
